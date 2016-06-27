@@ -1,0 +1,16 @@
+.slider {
+	height: 95vh !important;
+	opacity: .7;
+}
+
+.slides {
+	height: 95vh !important;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+.light {
+	font-weight: 600;
+}
